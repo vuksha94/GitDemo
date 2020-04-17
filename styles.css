@@ -1,7 +1,10 @@
 body {
-    background-color: brown;
+    background-color: olive;
 }
 
 h1 {
-    background-color: blue;
+    background-color: yellow;
+}
+div p {
+    font-size: 25px;
 }
